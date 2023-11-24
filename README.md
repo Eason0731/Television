@@ -18,7 +18,7 @@ iOS：VLC Player,nPlayer
 Windows：PotPlayer,VLC Player
 
 中央频道：
-<p dir="auto"><code>https://mirror.ghproxy.com//https://raw.githubusercontent.com/Eason0731/Television/main/m3u/CCTV.m3u</code></p>
+<p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/CCTV.m3u</code></p>
 
 上海频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/ShanghaiTV.m3u</code></p>
