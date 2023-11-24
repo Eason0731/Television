@@ -3,6 +3,8 @@
 https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 #EXTINF:-1 ,五星体育
 http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
+#EXTINF:-1 ,五星体育
+http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 ,劲爆体育
 http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 #EXTINF:-1 ,CCTV-5

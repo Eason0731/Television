@@ -73,12 +73,20 @@ https://epg.pw/stream/f425a08d8483fd5513f5e11cf75f48ec0a1aece756f7b79068dff3d267
 https://epg.pw/stream/0a73be75a87cac173b6dce452363bdd26cde58c91b1ddbf5a580bd3a4ba73229.m3u8
 #EXTINF:-1 ,东方财经
 http://nas.jdshipin.com:8801/bst.php?id=dfcjhd8m/8000000
+#EXTINF:-1 ,东方财经
+https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914106-0-0-0291cc19c9f9b04e9456c44aeedcf271&ycfrom=yicaiwww
+#EXTINF:-1 ,东方财经
+https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf57b4c0e555e29e6595ffd8a0
 #EXTINF:-1 ,东方购物
 https://epg.pw/stream/0dd853a4dd66a84e47bacb9da8d178429ba8fa9bf16c989b9b3df354ce0c9c1d.m3u8
 #EXTINF:-1 ,东方购物
 https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
 #EXTINF:-1 ,上海第一财经
 http://nas.jdshipin.com:8801/bst.php?id=dycjhd8m/8000000
+#EXTINF:-1 ,上海第一财经
+https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=8a58f3ace400df07cd8faa7729673fd3&txTime=6561f594
+#EXTINF:-1 ,上海第一财经
+https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1700915917-0-0-354ee85868331379f35765a9cefbe93b
 #EXTINF:-1 ,上海ics外语
 https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
 #EXTINF:-1 ,上海ics外语
@@ -100,6 +108,8 @@ https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3
 #EXTINF:-1 ,上海纪实
 http://nas.jdshipin.com:8801/bst.php?id=jspdhd/4000000
 #EXTINF:-1 ,上海都市
+https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=f648e7afae6328dadb55618cb93f4d15&txTime=6561f7a7
+#EXTINF:-1 ,上海都市
 https://epg.pw/stream/74365a3dd1190a8babd8fd5755a4c6df298e33e40002c499d540041cfd219261.ctv
 #EXTINF:-1 ,上海都市
 https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
@@ -119,6 +129,8 @@ https://epg.pw/stream/f28f8526271afd9a153ddb7aa9f8c2cafb033292ba164a65e6ef691de6
 https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
 #EXTINF:-1 ,五星体育
 https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
+#EXTINF:-1 ,五星体育
+http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 ,东方影视
 http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 ,七彩戏剧

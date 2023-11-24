@@ -518,6 +518,8 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 上海频道,#genre#
 SITV都市剧场,http://nas.jdshipin.com:8801/bst.php?id=dsjc8m/8000000
 SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
+东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914106-0-0-0291cc19c9f9b04e9456c44aeedcf271&ycfrom=yicaiwww
+东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf57b4c0e555e29e6595ffd8a0
 东方财经,http://nas.jdshipin.com:8801/bst.php?id=dfcjhd8m/8000000
 东方财经,https://epg.pw/stream/0a73be75a87cac173b6dce452363bdd26cde58c91b1ddbf5a580bd3a4ba73229.m3u8
 东方财经,https://epg.pw/stream/dd33d33effeab00aaf03989cfd660ec150c5f4968ce10e98b9ab94191e0ea3d7.m3u8
@@ -575,6 +577,9 @@ SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 上海ics外语,https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
 上海ics外语,https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
 上海第一财经,http://nas.jdshipin.com:8801/bst.php?id=dycjhd8m/8000000
+上海第一财经,https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=8a58f3ace400df07cd8faa7729673fd3&txTime=6561f594
+上海第一财经,https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1700915917-0-0-354ee85868331379f35765a9cefbe93b
+上海都市,https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=f648e7afae6328dadb55618cb93f4d15&txTime=6561f7a7
 上海都市,https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
 上海都市,https://epg.pw/stream/554b38be509e5ee260123d7e65185da4cb94f9365c1e4c16f30cbc32a5fe7d6a.m3u8
 上海都市,https://epg.pw/stream/606b1607f357aabeef6ca082ebaf886022270da03a2b804c2bbf2f9a0bb51f9f.m3u8
@@ -592,9 +597,11 @@ SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 生活时尚,http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 游戏风云,http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
 
 体育频道,#genre#
+五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 五星体育,http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
