@@ -4,18 +4,18 @@
 
 # 订阅地址(txt格式)
 # 可支持订阅该格式软件：
-安卓（包含安卓TV端）：DIYP影音(下载地址:https://www.123pan.com/s/PMXuVv-pG74H.html)
+安卓：<a href="https://www.123pan.com/s/PMXuVv-pG74H.html" target="_blank" title="可安装在基于安卓系统的智能电视TV端">DIYP影音</a>
 
 所有频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/txt/EasonTV.txt</code></p>
 
 # 订阅地址(m3u格式)
 # 可支持订阅该格式软件：
-安卓：VLC Player,TiviMate(下载地址:https://www.123pan.com/s/PMXuVv-fG74H.html)
+安卓：<a href="https://www.videolan.org/vlc/download-android.html" target="_blank">VLC for Android</a> , <a href="https://www.123pan.com/s/PMXuVv-fG74H.html" target="_blank" title="可安装在基于安卓系统的智能电视TV端">TiviMate</a>
 
-iOS：VLC Player,nPlayer
+iOS：<a href="https://itunes.apple.com/app/apple-store/id650377962?pt=454758&ct=vodownloadpage&mt=8" target="_blank">VLC media player</a> , <a href="https://apps.apple.com/us/app/nplayer/id1116905928" target="_blank">nPlayer</a>
 
-Windows：PotPlayer,VLC Player
+Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , <a href="https://www.videolan.org/vlc/index.zh_CN.html" target="_blank">VLC Player</a>
 
 中央频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/CCTV.m3u</code></p>
