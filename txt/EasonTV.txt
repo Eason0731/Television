@@ -3540,3 +3540,13 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 加拿大 Stingray Hit List,https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
 加拿大 Stingray Holiday Hits,https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 加拿大 Stingray Hot Country,https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+
+﻿测试频道,#genre#
+五星体育1,mitv://generationnexxxt.com:19806/dbb656a3a89340cfbe08007f521fccfd
+五星体育2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
+五星体育3,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育4,http://111.40.196.27:443/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
+广东体育1,http://183.236.13.168:808/hls/55/index.m3u8
+广东体育2,http://yuming.dsmynas.com:8888/udp/239.20.0.103:2004
+劲爆体育,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+新视觉,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
