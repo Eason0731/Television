@@ -605,7 +605,6 @@ SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 五星体育,http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
-劲爆体育2,http://gslbserv.itv.cmvideo.cn:80/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 CCTV-5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5,https://epg.pw/stream/01eae24f5d477f76d273c421a53136204d764b36fead9bb558ce8da108ba668b.m3u8
