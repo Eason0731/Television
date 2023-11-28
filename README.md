@@ -14,7 +14,7 @@
 安卓：<a href="https://www.videolan.org/vlc/download-android.html" target="_blank">VLC for Android</a> , <a href="https://www.123pan.com/s/PMXuVv-fG74H.html" target="_blank" title="可安装在基于安卓系统的智能电视TV端">TiviMate</a>
  , <a href="https://www.123pan.com/s/PMXuVv-VX74H.html" target="_blank">IPTV Pro</a>
 
-iOS：<a href="https://itunes.apple.com/app/apple-store/id650377962?pt=454758&ct=vodownloadpage&mt=8" target="_blank">VLC media player</a> , <a href="https://apps.apple.com/us/app/nplayer/id1116905928" target="_blank">nPlayer</a>
+iOS：<a href="https://apps.apple.com/cn/app/vlc-media-player/id650377962" target="_blank">VLC media player</a> , <a href="https://apps.apple.com/cn/app/nplayer/id1116905928?platform=iphone" target="_blank">nPlayer</a> , <a href="https://apps.apple.com/cn/app/aptv/id1630403500?platform=iphone" target="_blank">APTV</a>
 
 Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , <a href="https://www.videolan.org/vlc/index.zh_CN.html" target="_blank">VLC Player</a>
 
