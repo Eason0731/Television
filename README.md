@@ -35,3 +35,6 @@ Windows：<a href="https://potplayer.daum.net/" target="_blank">PotPlayer</a> , 
 
 海外频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/Foreign_Channel.m3u</code></p>
+
+YY轮播：
+<p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/m3u/YYLive.m3u</code></p>
