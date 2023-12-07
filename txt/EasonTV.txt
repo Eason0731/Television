@@ -949,6 +949,47 @@ AdultIPTV.net Russian (720p),http://cdn.adultiptv.net/russian.m3u8
 AdultIPTV.net Teen (720p),http://cdn.adultiptv.net/teen.m3u8
 AdultIPTV.net Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
 AdultIPTV.net Woman (720p),http://live.redtraffic.net/woman.m3u8
+Babestation24 (720p),http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+Blue Hustler (720p),http://193.33.240.8:8080/hustler_hd/index.m3u8
+Brazzers TV Europe (720p),https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+Dorcel TV (720p),https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+EroX (720p),https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+EroXXX (720p),https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+Hustler HD (720p),https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+Jasmin TV (1080p),http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+Miami TV (720p),https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Mexico (1080p),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+MyCamTV Anal (720p),https://live.mycamtv.com/anal.m3u8
+MyCamTV Arab (720p),http://live.mycamtv.com/arab.m3u8
+MyCamTV Asian (720p),https://live.mycamtv.com/asian.m3u8
+MyCamTV Big Ass (720p),https://live.mycamtv.com/defstream.m3u8
+MyCamTV Big Tits (720p),https://live.mycamtv.com/bigtits.m3u8
+MyCamTV Blonde (720p),https://live.mycamtv.com/blonde.m3u8
+MyCamTV Blowjob (720p),http://live.mycamtv.com/blowjob.m3u8
+MyCamTV Brunette (720p),https://live.mycamtv.com/brunette.m3u8
+MyCamTV Latina (720p),https://live.mycamtv.com/latina.m3u8
+MyCamTV Medium (720p),http://live.mycamtv.com/medium.m3u8
+MyCamTV MILF (720p),http://live.mycamtv.com/milf.m3u8
+MyCamTV Skinny (720p),https://live.mycamtv.com/arab.m3u8
+MyCamTV Squirt (720p),https://live.mycamtv.com/squirt.m3u8
+MyCamTV Teen (720p),http://live.mycamtv.com/teen.m3u8
+MyCamTV White (720p),https://live.mycamtv.com/white.m3u8
+MyCamTV Young (720p),http://live.mycamtv.com/young.m3u8
+O-la-la! (576p),http://31.148.48.15/O-la-la/index.m3u8
+Penthouse Gold (1080p),http://51.159.102.100/PenthouseGold/index.m3u8
+Playboy TV Latin America (1080p),http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Private TV (576p),http://149.62.183.194:9293/play/a07t
+Private TV HD (720p),https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+Redlight HD (720p),https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+Silk (1080p) [Geo-blocked],http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+Visit-X TV (720p),https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
+Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+Stingray Pop Adult (1080p),https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+STIRR Stingray Pop Adult (1080p),https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+XXX Cartoons (520p),http://144.76.58.245:2307/cartoon/index.m3u8
 Afarin TV (720p) [Not 24/7],https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
 Africa TV 1,http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 Africa TV 2,http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
@@ -1057,7 +1098,7 @@ Azerbaijan News TV (720p) [Not 24/7],https://edge1.socialsmart.tv/aznews/smil/pl
 Azstar TV (1080p) [Not 24/7],http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 Azteca Honduras,http://190.122.96.187:8888/http/002
 B4U Kadak (576p) [Not 24/7],http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-Babestation24 (720p),http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+
 Backus TV (720p) [Not 24/7],http://stream.backustv.ru/live/btv/index.m3u8
 Backus TV Страшное (720p) [Not 24/7],http://stream.backustv.ru/live/btv2/index.m3u8
 Baden TV (1080p) [Not 24/7],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
@@ -1760,17 +1801,7 @@ Muzzik Worldwide Serbia (720p) [Geo-blocked],https://muzzik-live.morescreens.com
 My Cinema Asia (1080p) [Geo-blocked],http://210.210.155.35/uq2663/h/h193/index.m3u8
 My Madison TV (WISC-DT2) (720p),https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
 My TV Channel (720p) [Not 24/7],http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
-MyCamTV Asian,http://live.mycamtv.com/asian.m3u8
-MyCamTV Big Ass,http://live.mycamtv.com/defstream.m3u8
-MyCamTV Big Tits,http://live.mycamtv.com/bigtits.m3u8
-MyCamTV Blonde,http://live.mycamtv.com/blonde.m3u8
-MyCamTV Brunette,http://live.mycamtv.com/brunette.m3u8
-MyCamTV Ebony,http://live.mycamtv.com/medium.m3u8
-MyCamTV Latina,http://live.mycamtv.com/latina.m3u8
-MyCamTV Skinny,http://live.mycamtv.com/arab.m3u8
-MyCamTV Squirt,http://live.mycamtv.com/squirt.m3u8
-MyCamTV White,http://live.mycamtv.com/white.m3u8
+
 MyTime movie network (1080p),https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 MyTime movie network Brazil (720p),https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 MyTime movie network Mexico (720p),https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -2588,7 +2619,6 @@ Stingray Hot Country (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redb
 Stingray Karaoke (720p),https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 Stingray Naturescape (360p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
 Stingray Naturescape (1080p),https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-Stingray Pop Adult (1080p),https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
 Stingray Rock Alternative (1080p),https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
 Stingray Soul Storm (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
 Stingray Today's Latin Pop (1080p),https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
@@ -2704,7 +2734,6 @@ STIRR Revry (720p),https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4V
 STIRR SOAR (720p) [Not 24/7],https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 STIRR Space:1999 (768p),https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 STIRR Stadium (720p),https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-STIRR Stingray Pop Adult (1080p),https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
 STIRR Stingray Rock Alternative (1080p),https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 STIRR Stingray Today's Latin Pop (1080p),https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 STIRR Stingray Urban Beats (1080p),https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
@@ -3342,8 +3371,6 @@ Maury,https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.c
 ME Mendoza:Acequia – 29.1TV – Mendoza TV – ME Mendoza,http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0158
 MEDIACORP,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 MEGAVISION CANAL 43 HD,http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w792904637.m3u8
-Miami TV (18+) Jenny 2,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
 MOVIE SPHERE,https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 MovieSphere | HD,https://moviesphere-plex.amagi.tv/playlist.m3u8
 Music : V2BEAT,https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
@@ -3453,9 +3480,6 @@ Thai PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 Thai PBS 3,https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 The 360 Channel,https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 The Archive | Webstream,https://stream.ads.ottera.tv/playlist.m3u8?network_id=93&app_store_url=https%3A%2F%2Fwww.thearchive.tv
-Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
-Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-Visit-X TV,https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 Vitebsk Telekanal,https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
 VOULI TV3,https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
 VOULI,http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
