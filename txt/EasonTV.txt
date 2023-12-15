@@ -3565,6 +3565,27 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 加拿大 Stingray Holiday Hits,https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 加拿大 Stingray Hot Country,https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
 
+娱乐频道,#genre#
+扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
+美国中文电视 (406p) [Not 24/7],https://jpts.sinovision.net/livestream.m3u8
+全国党员干部现代远程教育,https://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
+全国党员干部现代远程教育,http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
+全国党员干部现代远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
+全国党员干部现代远程教育,https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8?BR=single
+全国党员干部现代远程教育,https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
+东方购物一台,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+东方购物一台,http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+东方购物一台,http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+东方购物二台,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+东方购物二台,http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+FASHION TV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+FASHION TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+FASHION TV,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+FASHION TV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
+Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
+Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8
+
 YY轮播,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
 豪哥带我们发财,https://live.metshop.top/yy/23402146
