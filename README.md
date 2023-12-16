@@ -4,7 +4,7 @@
 
 # 订阅地址(txt格式)
 # 可支持订阅该格式软件：
-安卓：<a href="https://www.123pan.com/s/PMXuVv-pG74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">DIYP影音</a>
+安卓：<a href="https://www.123pan.com/s/PMXuVv-9U74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">百川影音</a> , <a href="https://www.123pan.com/s/PMXuVv-pG74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">DIYP影音</a>
 
 所有频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/txt/EasonTV.txt</code></p>
