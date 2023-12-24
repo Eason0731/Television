@@ -516,8 +516,8 @@ CGTN,https://epg.pw/stream/f9e8788ff2ad199de59777caff6a74f045211276f86f4bc93defb
 CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825de4405c63e4eef621.m3u8
 
 上海频道,#genre#
-SITV都市剧场,http://nas.jdshipin.com:8801/bst.php?id=dsjc8m/8000000
-SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
+都市剧场,http://nas.jdshipin.com:8801/bst.php?id=dsjc8m/8000000
+法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914106-0-0-0291cc19c9f9b04e9456c44aeedcf271&ycfrom=yicaiwww
 东方财经,https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf57b4c0e555e29e6595ffd8a0
 东方财经,http://nas.jdshipin.com:8801/bst.php?id=dfcjhd8m/8000000
@@ -559,7 +559,7 @@ SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 东方卫视,https://epg.pw/stream/f005f3500011e5c9ef71ec1fe131e13f28a8c5796500fdf4f8a88c629cadebff.m3u8
 东方卫视,https://epg.pw/stream/fdb15b17c9ae89e22f67f55f5254c7b7be7d0222828d1c22cd4a87d660e17155.m3u8
 东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-东方影视,http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
+上视东方影视,http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
 动漫秀场,http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
 哈哈炫动,http://nas.jdshipin.com:8801/bst.php?id=hhxdhd/4000000
 欢笑剧场,https://epg.pw/stream/0c623ff68c4c12d46892ed3fcb853e4fd82037d77b01f30eb3f70b89f36faba2.m3u8
@@ -572,10 +572,10 @@ SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 魅力足球,http://nas.jdshipin.com:8801/bst.php?id=mlyyhd8m/8000000
 七彩戏剧,http://nas.jdshipin.com:8801/bst.php?id=qcxjhd8m/8000000
-上海ics外语,https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
-上海ics外语,https://epg.pw/stream/4d4e6166f147330608a7777afa6d0603d5f54b83ee029f5a2a9d4bd3795613ab.m3u8
-上海ics外语,https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
-上海ics外语,https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
+上海ICS外语,https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
+上海ICS外语,https://epg.pw/stream/4d4e6166f147330608a7777afa6d0603d5f54b83ee029f5a2a9d4bd3795613ab.m3u8
+上海ICS外语,https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
+上海ICS外语,https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
 上海第一财经,http://nas.jdshipin.com:8801/bst.php?id=dycjhd8m/8000000
 上海第一财经,https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=8a58f3ace400df07cd8faa7729673fd3&txTime=6561f594
 上海第一财经,https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1700915917-0-0-354ee85868331379f35765a9cefbe93b
@@ -588,11 +588,11 @@ SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 上海都市,https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.m3u8
 上海都市,https://epg.pw/stream/eb82b7b56ba97f60ae8984180f5458828e42081ff1e1c3c2c7d7b38ca677972b.m3u8
 上海都市,https://epg.pw/stream/f28f8526271afd9a153ddb7aa9f8c2cafb033292ba164a65e6ef691de603db72.m3u8
-上海纪实,http://nas.jdshipin.com:8801/bst.php?id=jspdhd/4000000
-上海纪实,https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8
-上海纪实,https://epg.pw/stream/d62ba80b3275cd0260ad78a969ae19ca74ef6f44a7cae4cd46d31f1b44f47f2c.m3u8
-上海纪实,https://epg.pw/stream/dacf0f8dd3b8177a43d611af751656f04ced6087d566047ff2e1589f65821127.m3u8
-上海纪实,https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8
+上海纪实人文,http://nas.jdshipin.com:8801/bst.php?id=jspdhd/4000000
+上海纪实人文,https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8
+上海纪实人文,https://epg.pw/stream/d62ba80b3275cd0260ad78a969ae19ca74ef6f44a7cae4cd46d31f1b44f47f2c.m3u8
+上海纪实人文,https://epg.pw/stream/dacf0f8dd3b8177a43d611af751656f04ced6087d566047ff2e1589f65821127.m3u8
+上海纪实人文,https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8
 上海教育台,https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
 生活时尚,http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
