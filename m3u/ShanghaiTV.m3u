@@ -87,25 +87,25 @@ http://nas.jdshipin.com:8801/bst.php?id=dycjhd8m/8000000
 https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=8a58f3ace400df07cd8faa7729673fd3&txTime=6561f594
 #EXTINF:-1 ,上海第一财经
 https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1700915917-0-0-354ee85868331379f35765a9cefbe93b
-#EXTINF:-1 ,上海ics外语
+#EXTINF:-1 ,上海ICS外语
 https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
-#EXTINF:-1 ,上海ics外语
+#EXTINF:-1 ,上海ICS外语
 https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
-#EXTINF:-1 ,上海ics外语
+#EXTINF:-1 ,上海ICS外语
 https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
-#EXTINF:-1 ,上海ics外语
+#EXTINF:-1 ,上海ICS外语
 https://epg.pw/stream/4d4e6166f147330608a7777afa6d0603d5f54b83ee029f5a2a9d4bd3795613ab.m3u8
 #EXTINF:-1 ,上海教育台
 https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 ,上海纪实人文
 https://epg.pw/stream/dacf0f8dd3b8177a43d611af751656f04ced6087d566047ff2e1589f65821127.m3u8
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 ,上海纪实人文
 https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 ,上海纪实人文
 https://epg.pw/stream/d62ba80b3275cd0260ad78a969ae19ca74ef6f44a7cae4cd46d31f1b44f47f2c.m3u8
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 ,上海纪实人文
 https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 ,上海纪实人文
 http://nas.jdshipin.com:8801/bst.php?id=jspdhd/4000000
 #EXTINF:-1 ,上海都市
 https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=f648e7afae6328dadb55618cb93f4d15&txTime=6561f7a7
@@ -147,7 +147,7 @@ http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
 #EXTINF:-1 ,生活时尚
 http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
-#EXTINF:-1 ,SITV都市剧场
+#EXTINF:-1 ,都市剧场
 http://nas.jdshipin.com:8801/bst.php?id=dsjc8m/8000000
 #EXTINF:-1 ,欢笑剧场
 https://epg.pw/stream/658ca7166f908d2b2460919ae4fdeff8bda61c2c33722af951dcc63a1889f8b7.m3u8
