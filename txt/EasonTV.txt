@@ -526,6 +526,11 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 东方财经,https://epg.pw/stream/f425a08d8483fd5513f5e11cf75f48ec0a1aece756f7b79068dff3d267b8d69c.m3u8
 东方购物,https://epg.pw/stream/0dd853a4dd66a84e47bacb9da8d178429ba8fa9bf16c989b9b3df354ce0c9c1d.m3u8
 东方购物,https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
+东方购物一台,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+东方购物一台,http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+东方购物一台,http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+东方购物二台,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+东方购物二台,http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
 东方卫视,http://nas.jdshipin.com:8801/bst.php?id=dfwshd8m/8000000
 东方卫视,https://epg.pw/stream/0d7e424973d9b480a4900c37d93c49f47f514ba52394992af17fc1d0360e5dc7.m3u8
 东方卫视,https://epg.pw/stream/1661478571e5c33c84bbd749ae61a6956b3cd0e04ba847c334b85aec87869502.m3u8
@@ -598,11 +603,14 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+五星体育,http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
+劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 游戏风云,http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
 
 体育频道,#genre#
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
+五星体育,https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
 五星体育,http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 CCTV-5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
@@ -3566,7 +3574,7 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 加拿大 Stingray Hot Country,https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
 
 娱乐频道,#genre#
-扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
+扬中新闻,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 美国中文电视 (406p) [Not 24/7],https://jpts.sinovision.net/livestream.m3u8
 全国党员干部现代远程教育,https://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
 全国党员干部现代远程教育,http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
