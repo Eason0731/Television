@@ -81,6 +81,16 @@ https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf5
 https://epg.pw/stream/0dd853a4dd66a84e47bacb9da8d178429ba8fa9bf16c989b9b3df354ce0c9c1d.m3u8
 #EXTINF:-1 ,东方购物
 https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1 ,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1 ,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
 #EXTINF:-1 ,上海第一财经
 http://nas.jdshipin.com:8801/bst.php?id=dycjhd8m/8000000
 #EXTINF:-1 ,上海第一财经
@@ -131,6 +141,10 @@ https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bb
 https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
 #EXTINF:-1 ,五星体育
 http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1 ,五星体育
+http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
+#EXTINF:-1 ,劲爆体育
+http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 #EXTINF:-1 ,东方影视
 http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 ,七彩戏剧
