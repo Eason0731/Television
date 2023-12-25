@@ -712,7 +712,7 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-杭州亚运,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+杭州少儿,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 
 卫视频道,#genre#
