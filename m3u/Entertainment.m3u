@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,常州新闻综合
+https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1703457013-0-0-1111137c0cf11943b014bb2d8c1ccb2a
+#EXTINF:-1 ,常州都市
+https://livekcz.cztv.tv/kcz/cztv2.m3u8?auth_key=1703460964-0-0-44a0743efd452b220924ee7e7f51296f
+#EXTINF:-1 ,常州生活
+https://livekcz.cztv.tv/kcz/cztv3.m3u8?auth_key=1703460964-0-0-44a0743efd452b220924ee7e7f51296f
+#EXTINF:-1 ,常州公共
+https://livekcz.cztv.tv/kcz/cztv4.m3u8?auth_key=1703472511-0-0-9d275398d210b094a9dc41686c00d045
 #EXTINF:-1 ,扬中新闻
 http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 #EXTINF:-1 ,美国中文电视 (406p) [Not 24/7]
