@@ -6,6 +6,8 @@
 # 可支持订阅该格式软件：
 安卓：<a href="https://www.123pan.com/s/PMXuVv-fU74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">DIYP影音</a> , <a href="https://www.123pan.com/s/PMXuVv-9U74H.html" base target="_blank" title="可安装在基于安卓系统的智能电视TV端">百川影音</a>
 
+iOS：<a href="https://apps.apple.com/cn/app/ntplayer/id1613758141?platform=iphone" target="_blank">ntPlayer</a>
+
 所有频道：
 <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Eason0731/Television/main/txt/EasonTV.txt</code></p>
 
