@@ -77,6 +77,14 @@ http://nas.jdshipin.com:8801/bst.php?id=dfcjhd8m/8000000
 https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914106-0-0-0291cc19c9f9b04e9456c44aeedcf271&ycfrom=yicaiwww
 #EXTINF:-1 ,东方财经
 https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf57b4c0e555e29e6595ffd8a0
+#EXTINF:-1 ,东方财经
+https://epg.pw/stream/e256d4776e7ff92f40159e8e6aa7ee30e529b7c65fa8ab743c32f722d85e6c9a.ctv
+#EXTINF:-1 ,东方财经
+https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1 ,东方财经
+https://live.goodiptv.club/api/cqyx.php?id=dfcj
+#EXTINF:-1 ,东方财经
+https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 #EXTINF:-1 ,东方购物
 https://epg.pw/stream/0dd853a4dd66a84e47bacb9da8d178429ba8fa9bf16c989b9b3df354ce0c9c1d.m3u8
 #EXTINF:-1 ,东方购物
@@ -149,6 +157,14 @@ http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 ,七彩戏剧
 http://nas.jdshipin.com:8801/bst.php?id=qcxjhd8m/8000000
+#EXTINF:-1 ,七彩戏剧
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=qcxj_2000
+#EXTINF:-1 ,七彩戏剧
+https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.m3u8
+#EXTINF:-1 ,七彩戏剧
+https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1 ,七彩戏剧
+https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1 ,哈哈炫动
 http://nas.jdshipin.com:8801/bst.php?id=hhxdhd/4000000
 #EXTINF:-1 ,游戏风云
