@@ -1,12 +1,58 @@
 #EXTM3U
-#EXTINF:-1 ,常州新闻综合
-https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1703457013-0-0-1111137c0cf11943b014bb2d8c1ccb2a
-#EXTINF:-1 ,常州都市
-https://livekcz.cztv.tv/kcz/cztv2.m3u8?auth_key=1703460964-0-0-44a0743efd452b220924ee7e7f51296f
-#EXTINF:-1 ,常州生活
-https://livekcz.cztv.tv/kcz/cztv3.m3u8?auth_key=1703460964-0-0-44a0743efd452b220924ee7e7f51296f
-#EXTINF:-1 ,常州公共
-https://livekcz.cztv.tv/kcz/cztv4.m3u8?auth_key=1703472511-0-0-9d275398d210b094a9dc41686c00d045
+#EXTINF:-1,常州新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
+#EXTINF:-1,常州新闻综合
+http://live.cooltv.top/tv/cztv.php?id=czxwzh
+#EXTINF:-1,常州新闻综合
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/czxinwenzonghe/350/index.m3u8?&encrypt=
+#EXTINF:-1,常州新闻综合
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/czxinwenzonghe/600/index.m3u8?&encrypt=
+#EXTINF:-1,常州新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3810615020_450111224/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8?icpid=3&RTS=1663019442&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1,常州都市
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
+#EXTINF:-1,常州都市
+http://live.cooltv.top/tv/cztv.php?id=czds
+#EXTINF:-1,常州都市
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8?icpid=3&RTS=1663019634&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1,常州生活
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
+#EXTINF:-1,常州生活
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
+#EXTINF:-1,常州生活
+http://live.cooltv.top/tv/cztv.php?id=czsh
+#EXTINF:-1,常州生活
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8?icpid=3&RTS=1663019583&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1,常州公共
+https://epg.pw/stream/151efb2c916f889ce7332d865d03b62e2a95e896f2adcb137d039e75cea0bcf9.m3u8
+#EXTINF:-1,常州公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
+#EXTINF:-1,常州公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
+#EXTINF:-1,常州公共
+http://live.cooltv.top/tv/cztv.php?id=czgg
+#EXTINF:-1,常州公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&RTS=1663019844&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 ,武进新闻
+http://stream.appwuhan.com/6tzb/sd/live.m3u8
+#EXTINF:-1 ,武进新闻
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 ,武进新闻
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 ,武进新闻
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 ,武进新闻
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1 ,武进新闻
+http://222.179.155.21:1935/ch2.m3u8
+#EXTINF:-1 ,武进生活
+http://222.179.155.21:1935/ch0.m3u8
+#EXTINF:-1 ,武进生活
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 ,武进生活
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 ,山东教育卫视
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=sdjy_4000
 #EXTINF:-1 ,扬中新闻
 http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 #EXTINF:-1 ,美国中文电视 (406p) [Not 24/7]
