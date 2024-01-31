@@ -737,7 +737,6 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8?世界杯WorldCup
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-
 杭州青少体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 杭州青少体育,http://www.372583307.top:4022/udp/233.50.201.177:5140
 广东体育,http://202.168.187.208:2024/tsfile/live/1014_1.m3u8
@@ -754,6 +753,23 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 成都公共,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=CDTV-5_4000
 大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt
 大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
+Sky Sports F1,http://198.16.100.90:8278/tiankongf1/playlist.m3u8?tid=MEEE9486185594861855&ct=19225&tsum=bb4f02666ab26ce255f8e16f7ce67dd2
+Sky Sports F1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
+Sky Sports F1,http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221541.ts
+Sky Sports F1,mitv://generationnexxxt.com:19806/8d0465b1adcc4d5aa8a9fd3c6573da3c
+Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6071/index.m3u8
+Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7342/index.m3u8
+Sky Sports F1,http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKOYAP8Ooss_79JCq2inqso/ts
+Sky Sports F1,http://4k.best-tv.me:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=588040&extension=ts
+Sky Sports F1,http://4k.best-tv.me:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=588065&extension=ts
+Sky Sports F1,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/7342/index.m3u8
+Sky Sports F1,http://iptvmedia.live:8080/Gamsgo677/72712fbe/265
+Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7336/index.m3u8
+Sky Sports F1,http://1175df3a.kazaktelekom.com/iptv/EZ2X5DEMS7L3L5/10079/index.m3u8
+Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/10079/index.m3u8
+Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6071/index.m3u8
+Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7342/index.m3u8
+Sky Sports F1,http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/586759.ts
 
 卫视频道,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
