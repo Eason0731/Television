@@ -615,7 +615,6 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
-五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://api2.52tb.xyz/info?id=376&token=20230326xflvzc
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 游戏风云,http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
@@ -628,7 +627,6 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
-五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://api2.52tb.xyz/info?id=376&token=20230326xflvzc
 劲爆体育,http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
 CCTV-5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
@@ -736,10 +734,10 @@ Sky 1 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8?世界杯WorldCup
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+
 杭州青少体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 杭州青少体育,http://www.372583307.top:4022/udp/233.50.201.177:5140
 广东体育,http://202.168.187.208:2024/tsfile/live/1014_1.m3u8
@@ -751,21 +749,11 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 广东体育,http://lhq-cctv.8866.org:18181/tsfile/live/1223_1.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://gmxw.7766.org:808/hls/2/index.m3u8
-福建文体,https://cntv.lat/tv/live.php?auth=231110&id=fjwt
-宁波少儿,http://www.372583307.top:4022/udp/233.50.201.181:5140
 江苏体育休闲,http://222.189.51.62:8888/newlive/live/hls/53/live.m3u8
 成都公共,http://live.cooltv.top/tv/cdtv.php?id=cdgg
 成都公共,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=CDTV-5_4000
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉文体,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
 大连文体,http://live.cooltv.top/tv/tide.php?id=dlwt
 大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
-山东体育,http://221.2.146.228:8888/newlive/live/hls/53/live.m3u8
-山东体育,http://api2.52tb.xyz/info?id=523&token=20230218htjgzi
-北京体育休闲,http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
-北京体育休闲,https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
-北京体育休闲,http://live.cooltv.top/tv/ytradio.php?id=359
 
 卫视频道,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
@@ -3675,16 +3663,6 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 常州公共,http://live.cooltv.top/tv/cztv.php?id=czgg
 常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&RTS=1663019844&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-武进新闻,http://stream.appwuhan.com/6tzb/sd/live.m3u8
-武进新闻,http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-武进新闻,http://222.179.155.21:1935/ch1.m3u8
-武进新闻,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-武进新闻,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-武进新闻,http://222.179.155.21:1935/ch2.m3u8
-武进生活,http://222.179.155.21:1935/ch0.m3u8
-武进生活,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-武进生活,https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-山东教育卫视,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=sdjy_4000
 扬中新闻,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 美国中文电视 (406p) [Not 24/7],https://jpts.sinovision.net/livestream.m3u8
 全国党员干部现代远程教育,https://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
