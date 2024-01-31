@@ -33,26 +33,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/32212279
 http://live.cooltv.top/tv/cztv.php?id=czgg
 #EXTINF:-1,常州公共
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&RTS=1663019844&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1,武进新闻
-http://stream.appwuhan.com/6tzb/sd/live.m3u8
-#EXTINF:-1,武进新闻
-http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:-1,武进新闻
-http://222.179.155.21:1935/ch1.m3u8
-#EXTINF:-1,武进新闻
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1,武进新闻
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1,武进新闻
-http://222.179.155.21:1935/ch2.m3u8
-#EXTINF:-1,武进生活
-http://222.179.155.21:1935/ch0.m3u8
-#EXTINF:-1,武进生活
-http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1,武进生活
-https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1,山东教育卫视
-http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=sdjy_4000
 #EXTINF:-1,扬中新闻
 http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 #EXTINF:-1,美国中文电视 (406p) [Not 24/7]
