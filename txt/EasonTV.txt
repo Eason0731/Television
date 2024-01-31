@@ -770,6 +770,8 @@ Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/10079/index.m3u8
 Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6071/index.m3u8
 Sky Sports F1,http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/7342/index.m3u8
 Sky Sports F1,http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/586759.ts
+山东体育,http://zhuji.sdrnwl.cn:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com#http://182.32.205.101:9901/tsfile/live/1020_1.m3u8?key=txiptv&url=tvzb.com#http://58.56.67.38:808/hls/202326/index.m3u8
+武汉文体,http://183.94.146.79:9901/tsfile/live/0132_1.m3u8
 
 卫视频道,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
