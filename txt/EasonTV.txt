@@ -3682,6 +3682,21 @@ FASHION TV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
 Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
 Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8
+Sky Folk TV,http://us.live.skyfolk.mk/live.m3u8
+Sky Folk TV,https://eu.live.skyfolk.mk/live.m3u8
+Sky Folk TV,https://skyfolk.mk/live.m3u8
+Sky Folk TV,https://stream.skynewsarabia.com/vertical/vertical.m3u8
+Sky Folk TV,http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8&checkedby:iptvcat.com
+Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?iptvm3uplaylists.m3u8&checkedby:iptvcat.com
+Sky Folk TV,http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
+Sky Folk TV,https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
+Sky Folk TV,http://2hubs.ddns.net:25461/BabNour/telegrramm/62070
+Sky Folk TV,https://i.imgur.com/k4IK5OS.png" group-title="Undefined",TV Nové Zámky rtmp://s1.media-planet.sk:80/live/novezamky
+Sky Folk TV,http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/895
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+Sexy K-Pop,hhttps://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8?$1280x720
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?$1280x720
 
 YY轮播,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
