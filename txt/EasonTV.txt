@@ -857,6 +857,9 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
 
 港澳台频道,#genre#
+凤凰中文台,mitv://generationnexxxt.com:19806/6008167273cd479bad85c490faeeeba7
+凤凰资讯台,mitv://generationnexxxt.com:19806/fdcd9533a2984a3a92ea61df73b5765d
+凤凰香港台,mitv://generationnexxxt.com:19806/f6c6c40fddc34545b4b32a3942c0b049
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/a0_index.m3u8
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/a0_F3749096.ts
