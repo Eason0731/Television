@@ -1,208 +1,271 @@
 #EXTM3U
-#EXTINF:-1 ,东方卫视
-http://nas.jdshipin.com:8801/bst.php?id=dfwshd8m/8000000
-#EXTINF:-1 ,东方卫视
-https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/cfa905fef9b4fdba033fe7bbb391c44f74a683c3a449f0bc99f1a74ee8a19041.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/db72318da9003718197a9ce56d7ad27e81eafaab37c97deb3a5c5537dbcd8d03.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/0d7e424973d9b480a4900c37d93c49f47f514ba52394992af17fc1d0360e5dc7.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/b1814e29fc76210d7ec0e34971690ce3cb259fc5bcb01b4dd2808bcb72644924.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/28892ec227ba71b02a176cbc200308ed6a49b3ff32c15bca18953582055e5045.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/60c8db6a3ec3c761f3c1e81d2bf01c4c0dd4d98f43f239656f92081029eb8fdb.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/a51760c9cccf53c20c4b70e42fe02710dc81259d275b11ad395dc617236bef9e.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/d0046d1e96e76488077e566b2671fad41c76cdb268a02039778b2908777fbf3b.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/1f5069511ca752b714abac212ef11d54b4ab0d7f16515db8f0850c6190067f65.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/e864aff1d35de24ee0db0e5b23b4ae8f360014302c14798b13b56920e0e4b9f3.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/76215824a4436a4e08d74f3b842449a5e9d13759ccc84cca3b1ea8ba3c1f8c48.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/936a731d0f0738a903c2968c7e4d48c09cc4bf042ad218afe2d91decd1032359.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/6d523ea7a867886c0509580437c96db6cc2c4594abcba3e14802077dca7b362e.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/33c29f278a53bdb23e371255a3768de9a2e4fcd15b56e2ea826e325810f21411.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/6fae5f1812d0259178cac7bc569df680b75fd44faa126cad4a7d81f3aba71e18.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/87d796fcc79ee8540b0d1a04611d23e03925a687a5c6040eb408ad3eedc701c0.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/1661478571e5c33c84bbd749ae61a6956b3cd0e04ba847c334b85aec87869502.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/86197d3650417f415203756bd6c606cdbcaf67be65363cb8e372078635c70d9a.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/b81dc47ef393687c06ba0c16d0d1f426df50ced7b35931015133d04598f90e8e.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/e0ffd3e5dfb534494e291340e96436a24dbf366f0ff2d73e93614c65dba028af.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/53f39ebdbb1f56b627681f60ce47fa383e45df7795daed37403af0cc514365dc.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/d49d21cb06f02bf7e9c13a7a9323895fceaeea79b2c54fe72c02bac7c1708e55.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/44d57257462b751aa2a8d28832a4529c3b633a31c414d1d707852e2ee20b2f3c.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/fdb15b17c9ae89e22f67f55f5254c7b7be7d0222828d1c22cd4a87d660e17155.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/482ac165cc42acf7ad79712157a12a5cfa13ef88bb6ef50107e5c627bd707da7.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/f005f3500011e5c9ef71ec1fe131e13f28a8c5796500fdf4f8a88c629cadebff.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/d5bb4b3e0f20a240b5339a10dd108690a5e1bbcda8614babc084ace7cf058b3a.m3u8
-#EXTINF:-1 ,东方卫视
-https://epg.pw/stream/b3cd9e070039e195a8745c6c2ce17dd0f310700f8efab2615b7b3951af6ad0c9.m3u8
-#EXTINF:-1 ,东方财经
-https://epg.pw/stream/dd33d33effeab00aaf03989cfd660ec150c5f4968ce10e98b9ab94191e0ea3d7.m3u8
-#EXTINF:-1 ,东方财经
-https://epg.pw/stream/f425a08d8483fd5513f5e11cf75f48ec0a1aece756f7b79068dff3d267b8d69c.m3u8
-#EXTINF:-1 ,东方财经
-https://epg.pw/stream/0a73be75a87cac173b6dce452363bdd26cde58c91b1ddbf5a580bd3a4ba73229.m3u8
-#EXTINF:-1 ,东方财经
-http://nas.jdshipin.com:8801/bst.php?id=dfcjhd8m/8000000
-#EXTINF:-1 ,东方财经
-https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914106-0-0-0291cc19c9f9b04e9456c44aeedcf271&ycfrom=yicaiwww
-#EXTINF:-1 ,东方财经
-https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf57b4c0e555e29e6595ffd8a0
-#EXTINF:-1 ,东方财经
-https://epg.pw/stream/e256d4776e7ff92f40159e8e6aa7ee30e529b7c65fa8ab743c32f722d85e6c9a.ctv
-#EXTINF:-1 ,东方财经
-https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1 ,东方财经
-https://live.goodiptv.club/api/cqyx.php?id=dfcj
-#EXTINF:-1 ,东方财经
-https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1 ,东方购物
-https://epg.pw/stream/0dd853a4dd66a84e47bacb9da8d178429ba8fa9bf16c989b9b3df354ce0c9c1d.m3u8
-#EXTINF:-1 ,东方购物
-https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
-#EXTINF:-1 ,东方购物一台
-http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-#EXTINF:-1 ,东方购物一台
-http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 ,东方购物一台
-http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 ,东方购物二台
-http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-#EXTINF:-1 ,东方购物二台
-http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
-#EXTINF:-1 ,上海第一财经
-http://nas.jdshipin.com:8801/bst.php?id=dycjhd8m/8000000
-#EXTINF:-1 ,上海第一财经
-https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=8a58f3ace400df07cd8faa7729673fd3&txTime=6561f594
-#EXTINF:-1 ,上海第一财经
-https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1700915917-0-0-354ee85868331379f35765a9cefbe93b
-#EXTINF:-1 ,上海ICS外语
-https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
-#EXTINF:-1 ,上海ICS外语
-https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
-#EXTINF:-1 ,上海ICS外语
-https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
-#EXTINF:-1 ,上海ICS外语
-https://epg.pw/stream/4d4e6166f147330608a7777afa6d0603d5f54b83ee029f5a2a9d4bd3795613ab.m3u8
-#EXTINF:-1 ,上海教育台
-https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
-#EXTINF:-1 ,上海纪实人文
-https://epg.pw/stream/dacf0f8dd3b8177a43d611af751656f04ced6087d566047ff2e1589f65821127.m3u8
-#EXTINF:-1 ,上海纪实人文
-https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8
-#EXTINF:-1 ,上海纪实人文
-https://epg.pw/stream/d62ba80b3275cd0260ad78a969ae19ca74ef6f44a7cae4cd46d31f1b44f47f2c.m3u8
-#EXTINF:-1 ,上海纪实人文
-https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8
-#EXTINF:-1 ,上海纪实人文
-http://nas.jdshipin.com:8801/bst.php?id=jspdhd/4000000
-#EXTINF:-1 ,上海都市
-https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=f648e7afae6328dadb55618cb93f4d15&txTime=6561f7a7
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/74365a3dd1190a8babd8fd5755a4c6df298e33e40002c499d540041cfd219261.ctv
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.m3u8
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/554b38be509e5ee260123d7e65185da4cb94f9365c1e4c16f30cbc32a5fe7d6a.m3u8
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/eb82b7b56ba97f60ae8984180f5458828e42081ff1e1c3c2c7d7b38ca677972b.m3u8
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/606b1607f357aabeef6ca082ebaf886022270da03a2b804c2bbf2f9a0bb51f9f.m3u8
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/7a4ccf34951b508637e863bb518499a17efef6afe5c49cbc133691b2567d29c9.m3u8
-#EXTINF:-1 ,上海都市
-https://epg.pw/stream/f28f8526271afd9a153ddb7aa9f8c2cafb033292ba164a65e6ef691de603db72.m3u8
-#EXTINF:-1 ,五星体育
-https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
-#EXTINF:-1 ,五星体育
-https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
-#EXTINF:-1 ,五星体育
-http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1 ,五星体育
-http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
-#EXTINF:-1 ,五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 ,五星体育
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 ,五星体育
-https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
-#EXTINF:-1 ,五星体育
-http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-#EXTINF:-1 ,五星体育
-http://api2.52tb.xyz/info?id=376&token=20230326xflvzc
-#EXTINF:-1 ,劲爆体育
-http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
-#EXTINF:-1 ,东方影视
-http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
-#EXTINF:-1 ,七彩戏剧
-http://nas.jdshipin.com:8801/bst.php?id=qcxjhd8m/8000000
-#EXTINF:-1 ,七彩戏剧
-http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=qcxj_2000
-#EXTINF:-1 ,七彩戏剧
-https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.m3u8
-#EXTINF:-1 ,七彩戏剧
-https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1 ,七彩戏剧
-https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1 ,哈哈炫动
-http://nas.jdshipin.com:8801/bst.php?id=hhxdhd/4000000
-#EXTINF:-1 ,游戏风云
-http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
-#EXTINF:-1 ,魅力足球
-http://nas.jdshipin.com:8801/bst.php?id=mlyyhd8m/8000000
-#EXTINF:-1 ,SITV法治天地
-http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
-#EXTINF:-1 ,动漫秀场
-http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
-#EXTINF:-1 ,生活时尚
-http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
-#EXTINF:-1 ,都市剧场
+#EXTINF:-1,上海新闻综合
+http://58.32.42.66:4022/udp/239.45.3.209:5140
+#EXTINF:-1,都市剧场
+http://58.32.42.66:4022/udp/239.45.3.136:5140
+#EXTINF:-1,都市剧场
 http://nas.jdshipin.com:8801/bst.php?id=dsjc8m/8000000
-#EXTINF:-1 ,欢笑剧场
-https://epg.pw/stream/658ca7166f908d2b2460919ae4fdeff8bda61c2c33722af951dcc63a1889f8b7.m3u8
-#EXTINF:-1 ,欢笑剧场
-https://epg.pw/stream/3aa8e676f4d9d2c5d690881ef9ae4b278e6d9291d1b62c30df8369558ffd56af.m3u8
-#EXTINF:-1 ,欢笑剧场
-https://epg.pw/stream/f03ccebadf691b9b295ddc0a7c6065e57ea704af181a72499caa2500828446b2.m3u8
-#EXTINF:-1 ,欢笑剧场
+#EXTINF:-1,法治天地
+http://58.32.42.66:4022/udp/239.45.1.46:5140
+#EXTINF:-1,法治天地
+http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
+#EXTINF:-1,东方财经
+http://58.32.42.66:4022/udp/239.45.1.119:5140
+#EXTINF:-1,东方财经
+https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914106-0-0-0291cc19c9f9b04e9456c44aeedcf271&ycfrom=yicaiwww
+#EXTINF:-1,东方财经
+https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1700914494-0-0-cc2425cf57b4c0e555e29e6595ffd8a0
+#EXTINF:-1,东方财经
+http://nas.jdshipin.com:8801/bst.php?id=dfcjhd8m/8000000
+#EXTINF:-1,东方财经
+https://epg.pw/stream/0a73be75a87cac173b6dce452363bdd26cde58c91b1ddbf5a580bd3a4ba73229.m3u8
+#EXTINF:-1,东方财经
+https://epg.pw/stream/dd33d33effeab00aaf03989cfd660ec150c5f4968ce10e98b9ab94191e0ea3d7.m3u8
+#EXTINF:-1,东方财经
+https://epg.pw/stream/f425a08d8483fd5513f5e11cf75f48ec0a1aece756f7b79068dff3d267b8d69c.m3u8
+#EXTINF:-1,东方财经
+https://epg.pw/stream/e256d4776e7ff92f40159e8e6aa7ee30e529b7c65fa8ab743c32f722d85e6c9a.ctv
+#EXTINF:-1,东方财经
+https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1,东方财经
+https://live.goodiptv.club/api/cqyx.php?id=dfcj
+#EXTINF:-1,东方财经
+https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1,东方购物
+https://epg.pw/stream/0dd853a4dd66a84e47bacb9da8d178429ba8fa9bf16c989b9b3df354ce0c9c1d.m3u8
+#EXTINF:-1,东方购物
+https://epg.pw/stream/45ee99a8a0badc17c2a57378b6b4f076167eb740985eec8349043ca56f29927d.m3u8
+#EXTINF:-1,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+#EXTINF:-1,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781866589685&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1,东方购物一台
+http://ocj2.kksmg.com/ocj2/ocj2.m3u8?wsSession=86e356c44b9211c60c716677-162781863320679&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1,东方购物二台
+http://ocj2.kksmg.com/ocj1/ocj1.m3u8?wsSession=86e356c44b9211c60c716677-162781879536935&wsIPSercert=fde134e287786a1a1ffb42f398afc245&wsMonitor=0
+#EXTINF:-1,东方卫视
+http://58.32.42.66:4022/udp/239.45.3.146:5140
+#EXTINF:-1,东方卫视
+http://nas.jdshipin.com:8801/bst.php?id=dfwshd8m/8000000
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/0d7e424973d9b480a4900c37d93c49f47f514ba52394992af17fc1d0360e5dc7.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/1661478571e5c33c84bbd749ae61a6956b3cd0e04ba847c334b85aec87869502.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/1f5069511ca752b714abac212ef11d54b4ab0d7f16515db8f0850c6190067f65.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/28892ec227ba71b02a176cbc200308ed6a49b3ff32c15bca18953582055e5045.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/33c29f278a53bdb23e371255a3768de9a2e4fcd15b56e2ea826e325810f21411.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/44d57257462b751aa2a8d28832a4529c3b633a31c414d1d707852e2ee20b2f3c.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/482ac165cc42acf7ad79712157a12a5cfa13ef88bb6ef50107e5c627bd707da7.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/53f39ebdbb1f56b627681f60ce47fa383e45df7795daed37403af0cc514365dc.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/60c8db6a3ec3c761f3c1e81d2bf01c4c0dd4d98f43f239656f92081029eb8fdb.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/6d523ea7a867886c0509580437c96db6cc2c4594abcba3e14802077dca7b362e.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/6fae5f1812d0259178cac7bc569df680b75fd44faa126cad4a7d81f3aba71e18.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/76215824a4436a4e08d74f3b842449a5e9d13759ccc84cca3b1ea8ba3c1f8c48.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/86197d3650417f415203756bd6c606cdbcaf67be65363cb8e372078635c70d9a.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/87d796fcc79ee8540b0d1a04611d23e03925a687a5c6040eb408ad3eedc701c0.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/936a731d0f0738a903c2968c7e4d48c09cc4bf042ad218afe2d91decd1032359.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/a51760c9cccf53c20c4b70e42fe02710dc81259d275b11ad395dc617236bef9e.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/b1814e29fc76210d7ec0e34971690ce3cb259fc5bcb01b4dd2808bcb72644924.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/b3cd9e070039e195a8745c6c2ce17dd0f310700f8efab2615b7b3951af6ad0c9.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/b81dc47ef393687c06ba0c16d0d1f426df50ced7b35931015133d04598f90e8e.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/cfa905fef9b4fdba033fe7bbb391c44f74a683c3a449f0bc99f1a74ee8a19041.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/d0046d1e96e76488077e566b2671fad41c76cdb268a02039778b2908777fbf3b.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/d49d21cb06f02bf7e9c13a7a9323895fceaeea79b2c54fe72c02bac7c1708e55.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/d5bb4b3e0f20a240b5339a10dd108690a5e1bbcda8614babc084ace7cf058b3a.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/db72318da9003718197a9ce56d7ad27e81eafaab37c97deb3a5c5537dbcd8d03.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/e0ffd3e5dfb534494e291340e96436a24dbf366f0ff2d73e93614c65dba028af.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/e864aff1d35de24ee0db0e5b23b4ae8f360014302c14798b13b56920e0e4b9f3.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/f005f3500011e5c9ef71ec1fe131e13f28a8c5796500fdf4f8a88c629cadebff.m3u8
+#EXTINF:-1,东方卫视
+https://epg.pw/stream/fdb15b17c9ae89e22f67f55f5254c7b7be7d0222828d1c22cd4a87d660e17155.m3u8
+#EXTINF:-1,东方卫视
+https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+#EXTINF:-1,上海东方影视
+http://58.32.42.66:4022/udp/239.45.3.237:5140
+#EXTINF:-1,上视东方影视
+http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
+#EXTINF:-1,动漫秀场
+http://58.32.42.66:4022/udp/239.45.3.134:5140
+#EXTINF:-1,动漫秀场
+http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
+#EXTINF:-1,哈哈炫动
+http://58.32.42.66:4022/udp/239.45.1.55:5140
+#EXTINF:-1,哈哈炫动
+http://nas.jdshipin.com:8801/bst.php?id=hhxdhd/4000000
+#EXTINF:-1,欢笑剧场
+http://58.32.42.66:4022/udp/239.45.3.196:5140
+#EXTINF:-1,欢笑剧场
+http://58.32.42.66:4022/udp/239.45.1.4:5140
+#EXTINF:-1,欢笑剧场
 https://epg.pw/stream/0c623ff68c4c12d46892ed3fcb853e4fd82037d77b01f30eb3f70b89f36faba2.m3u8
-#EXTINF:-1 ,欢笑剧场
-https://epg.pw/stream/8c09f04576aaa42921a0406324b1ebdd07eb7a5340bf3ff6245c279705c38932.m3u8
-#EXTINF:-1 ,欢笑剧场
+#EXTINF:-1,欢笑剧场
 https://epg.pw/stream/3a02ce6a973c11a2fb35387570600c06673c4af9a3399ffe97637d46fe1e643c.m3u8
-#EXTINF:-1 ,欢笑剧场4K
+#EXTINF:-1,欢笑剧场
+https://epg.pw/stream/3aa8e676f4d9d2c5d690881ef9ae4b278e6d9291d1b62c30df8369558ffd56af.m3u8
+#EXTINF:-1,欢笑剧场
+https://epg.pw/stream/658ca7166f908d2b2460919ae4fdeff8bda61c2c33722af951dcc63a1889f8b7.m3u8
+#EXTINF:-1,欢笑剧场
+https://epg.pw/stream/8c09f04576aaa42921a0406324b1ebdd07eb7a5340bf3ff6245c279705c38932.m3u8
+#EXTINF:-1,欢笑剧场
+https://epg.pw/stream/f03ccebadf691b9b295ddc0a7c6065e57ea704af181a72499caa2500828446b2.m3u8
+#EXTINF:-1,欢笑剧场4K
 http://nas.jdshipin.com:8801/bst.php?id=hxjc4k/15000000
-#EXTINF:-1 ,欢笑剧场4K
+#EXTINF:-1,欢笑剧场4K
 https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
-
+#EXTINF:-1,魅力足球
+http://nas.jdshipin.com:8801/bst.php?id=mlyyhd8m/8000000
+#EXTINF:-1,七彩戏剧
+http://58.32.42.66:4022/udp/239.45.3.61:5140
+#EXTINF:-1,七彩戏剧
+http://nas.jdshipin.com:8801/bst.php?id=qcxjhd8m/8000000
+#EXTINF:-1,七彩戏剧
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=qcxj_2000
+#EXTINF:-1,七彩戏剧
+https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.m3u8
+#EXTINF:-1,七彩戏剧
+https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1,七彩戏剧
+https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1,上视ICS外语
+http://58.32.42.66:4022/udp/239.45.1.127:5140
+#EXTINF:-1,上海ICS外语
+https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
+#EXTINF:-1,上海ICS外语
+https://epg.pw/stream/4d4e6166f147330608a7777afa6d0603d5f54b83ee029f5a2a9d4bd3795613ab.m3u8
+#EXTINF:-1,上海ICS外语
+https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
+#EXTINF:-1,上海ICS外语
+https://epg.pw/stream/9bad4789ab52dd9a1b486a7ec687f7b421eb6af3757d58507e4e7660eab9765b.m3u8
+#EXTINF:-1,上海第一财经
+http://58.32.42.66:4022/udp/239.45.3.211:5140
+#EXTINF:-1,上海第一财经
+http://nas.jdshipin.com:8801/bst.php?id=dycjhd8m/8000000
+#EXTINF:-1,上海第一财经
+https://tencent-stream.kksmg.com/live/dycj.m3u8?txSecret=8a58f3ace400df07cd8faa7729673fd3&txTime=6561f594
+#EXTINF:-1,上海第一财经
+https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1700915917-0-0-354ee85868331379f35765a9cefbe93b
+#EXTINF:-1,上海都市
+http://58.32.42.66:4022/udp/239.45.3.236:5140
+#EXTINF:-1,上海都市
+https://tencent-stream.kksmg.com/live/ylpd.m3u8?txSecret=f648e7afae6328dadb55618cb93f4d15&txTime=6561f7a7
+#EXTINF:-1,上海都市
+https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
+#EXTINF:-1,上海都市
+https://epg.pw/stream/554b38be509e5ee260123d7e65185da4cb94f9365c1e4c16f30cbc32a5fe7d6a.m3u8
+#EXTINF:-1,上海都市
+https://epg.pw/stream/606b1607f357aabeef6ca082ebaf886022270da03a2b804c2bbf2f9a0bb51f9f.m3u8
+#EXTINF:-1,上海都市
+https://epg.pw/stream/74365a3dd1190a8babd8fd5755a4c6df298e33e40002c499d540041cfd219261.ctv
+#EXTINF:-1,上海都市
+https://epg.pw/stream/7a4ccf34951b508637e863bb518499a17efef6afe5c49cbc133691b2567d29c9.m3u8
+#EXTINF:-1,上海都市
+https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.m3u8
+#EXTINF:-1,上海都市
+https://epg.pw/stream/eb82b7b56ba97f60ae8984180f5458828e42081ff1e1c3c2c7d7b38ca677972b.m3u8
+#EXTINF:-1,上海都市
+https://epg.pw/stream/f28f8526271afd9a153ddb7aa9f8c2cafb033292ba164a65e6ef691de603db72.m3u8
+#EXTINF:-1,上海纪实人文
+http://58.32.42.66:4022/udp/239.45.3.212:5140
+#EXTINF:-1,上海纪实人文
+http://nas.jdshipin.com:8801/bst.php?id=jspdhd/4000000
+#EXTINF:-1,上海纪实人文
+https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.m3u8
+#EXTINF:-1,上海纪实人文
+https://epg.pw/stream/d62ba80b3275cd0260ad78a969ae19ca74ef6f44a7cae4cd46d31f1b44f47f2c.m3u8
+#EXTINF:-1,上海纪实人文
+https://epg.pw/stream/dacf0f8dd3b8177a43d611af751656f04ced6087d566047ff2e1589f65821127.m3u8
+#EXTINF:-1,上海纪实人文
+https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8
+#EXTINF:-1,上海教育台
+http://58.32.42.66:4022/udp/239.45.3.122:5140
+#EXTINF:-1,上海教育台
+https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
+#EXTINF:-1,生活时尚
+http://58.32.42.66:4022/udp/239.45.3.132:5140
+#EXTINF:-1,生活时尚
+http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
+#EXTINF:-1,五星体育
+http://58.32.42.66:4022/udp/239.45.3.210:5140
+#EXTINF:-1,五星体育
+http://180.167.104.105:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1,五星体育
+http://58.37.189.183:8088/udp/239.45.3.210:5140
+#EXTINF:-1,五星体育
+https://epg.pw/stream/3cc797641112e5b2e7700c9a2264e3ede2a5a87391c5ded3e50d903458d2708f.m3u8
+#EXTINF:-1,五星体育
+https://epg.pw/stream/8bcb65dddb82fc01cc617f6c5e2aa3f7d98fba152b5423fe17b4caa9bbed79b2.m3u8
+#EXTINF:-1,五星体育
+http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1,五星体育
+http://nas.jdshipin.com:8801/bst.php?id=ssty/4000000
+#EXTINF:-1,五星体育
+https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,五星体育
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1,五星体育
+https://epg.pw/stream/22245524bde60cc6f805db18f5af17413485ab766670f6cf07e0b23d29358163.ctv
+#EXTINF:-1,五星体育
+http://api2.52tb.xyz/info?id=376&token=20230326xflvzc
+#EXTINF:-1,劲爆体育
+http://nas.jdshipin.com:8801/bst.php?id=jbtyhd8m/8000000
+#EXTINF:-1,劲爆体育
+http://49.65.216.174:8888/rtp/239.49.1.180:6000
+#EXTINF:-1,劲爆体育
+http://49.64.55.189:8888/rtp/239.49.1.180:6000
+#EXTINF:-1,劲爆体育
+http://49.71.97.216:8111/rtp/239.49.1.180:6000
+#EXTINF:-1,游戏风云
+http://58.32.42.66:4022/udp/239.45.3.131:5140
+#EXTINF:-1,游戏风云
+http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
+#EXTINF:-1,全纪实
+http://58.32.42.66:4022/udp/239.45.3.135:5140
+#EXTINF:-1,浦东频道
+http://58.32.42.66:4022/udp/239.45.3.248:5140
+#EXTINF:-1,崇明频道
+http://58.32.42.66:4022/udp/239.45.1.54:5140
+#EXTINF:-1,嘉定频道
+http://58.32.42.66:4022/udp/239.45.3.185:5140
+#EXTINF:-1,金色频道
+http://58.32.42.66:4022/udp/239.45.1.118:5140
+#EXTINF:-1,健康人生
+http://58.32.42.66:4022/udp/239.45.3.214:5140
+#EXTINF:-1,百事通超级体育
+http://58.32.42.66:4022/udp/239.45.3.139:5140
+#EXTINF:-1,百事通4K
+http://58.32.42.66:4022/udp/239.45.1.42:5140
+#EXTINF:-1,百事通4K
+http://58.32.42.66:4022/udp/239.45.3.107:5140
