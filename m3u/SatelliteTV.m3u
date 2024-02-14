@@ -1,233 +1,301 @@
 #EXTM3U
-#EXTINF:-1 ,安多卫视
+#EXTINF:-1,安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1,安徽卫视
+http://58.32.42.66:4022/udp/239.45.1.120:5140
+#EXTINF:-1,安徽卫视
 http://nas.jdshipin.com:8801/bst.php?id=ahwshd8m/8000000
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1,安徽卫视
 https://live.goodiptv.club/api/cqyx.php?id=anhuiSD
-#EXTINF:-1 ,澳亚卫视
+#EXTINF:-1,澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 ,澳亚卫视
+#EXTINF:-1,澳亚卫视
 https://pi.0472.org/tv/aoya.php
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1,北京卫视
+http://58.32.42.66:4022/udp/239.45.3.229:5140
+#EXTINF:-1,北京卫视
 http://nas.jdshipin.com:8801/bst.php?id=bjwshd8m/8000000
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1,北京卫视
 https://live.goodiptv.club/api/cqyx.php?id=beijingHD
-#EXTINF:-1 ,兵团卫视
+#EXTINF:-1,兵团卫视
+http://58.32.42.66:4022/udp/239.45.1.117:5140
+#EXTINF:-1,兵团卫视
 http://nas.jdshipin.com:8801/bst.php?id=btws/1300000
-#EXTINF:-1 ,兵团卫视
+#EXTINF:-1,兵团卫视
 https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
-#EXTINF:-1 ,大湾区卫视
+#EXTINF:-1,大湾区卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
+http://58.32.42.66:4022/udp/239.45.3.146:5140
+#EXTINF:-1,东方卫视
 http://nas.jdshipin.com:8801/bst.php?id=dfwshd8m/8000000
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/0d7e424973d9b480a4900c37d93c49f47f514ba52394992af17fc1d0360e5dc7.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/1661478571e5c33c84bbd749ae61a6956b3cd0e04ba847c334b85aec87869502.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/1f5069511ca752b714abac212ef11d54b4ab0d7f16515db8f0850c6190067f65.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/28892ec227ba71b02a176cbc200308ed6a49b3ff32c15bca18953582055e5045.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/33c29f278a53bdb23e371255a3768de9a2e4fcd15b56e2ea826e325810f21411.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/44d57257462b751aa2a8d28832a4529c3b633a31c414d1d707852e2ee20b2f3c.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/482ac165cc42acf7ad79712157a12a5cfa13ef88bb6ef50107e5c627bd707da7.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/53f39ebdbb1f56b627681f60ce47fa383e45df7795daed37403af0cc514365dc.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/60c8db6a3ec3c761f3c1e81d2bf01c4c0dd4d98f43f239656f92081029eb8fdb.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/6d523ea7a867886c0509580437c96db6cc2c4594abcba3e14802077dca7b362e.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/6fae5f1812d0259178cac7bc569df680b75fd44faa126cad4a7d81f3aba71e18.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/76215824a4436a4e08d74f3b842449a5e9d13759ccc84cca3b1ea8ba3c1f8c48.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/86197d3650417f415203756bd6c606cdbcaf67be65363cb8e372078635c70d9a.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/87d796fcc79ee8540b0d1a04611d23e03925a687a5c6040eb408ad3eedc701c0.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/936a731d0f0738a903c2968c7e4d48c09cc4bf042ad218afe2d91decd1032359.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/a51760c9cccf53c20c4b70e42fe02710dc81259d275b11ad395dc617236bef9e.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/b1814e29fc76210d7ec0e34971690ce3cb259fc5bcb01b4dd2808bcb72644924.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/b3cd9e070039e195a8745c6c2ce17dd0f310700f8efab2615b7b3951af6ad0c9.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/b81dc47ef393687c06ba0c16d0d1f426df50ced7b35931015133d04598f90e8e.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/cfa905fef9b4fdba033fe7bbb391c44f74a683c3a449f0bc99f1a74ee8a19041.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/d0046d1e96e76488077e566b2671fad41c76cdb268a02039778b2908777fbf3b.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/d49d21cb06f02bf7e9c13a7a9323895fceaeea79b2c54fe72c02bac7c1708e55.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/d5bb4b3e0f20a240b5339a10dd108690a5e1bbcda8614babc084ace7cf058b3a.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/db72318da9003718197a9ce56d7ad27e81eafaab37c97deb3a5c5537dbcd8d03.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/e0ffd3e5dfb534494e291340e96436a24dbf366f0ff2d73e93614c65dba028af.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/e864aff1d35de24ee0db0e5b23b4ae8f360014302c14798b13b56920e0e4b9f3.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/eb7a5a450a87157712e9afc63da8f145ee437bbe67c89afe80ae08611c46c61d.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/f005f3500011e5c9ef71ec1fe131e13f28a8c5796500fdf4f8a88c629cadebff.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://epg.pw/stream/fdb15b17c9ae89e22f67f55f5254c7b7be7d0222828d1c22cd4a87d660e17155.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1,东方卫视
 https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-#EXTINF:-1 ,东南卫视
+#EXTINF:-1,东南卫视
+http://58.32.42.66:4022/udp/239.45.1.121:5140
+#EXTINF:-1,东南卫视
 http://nas.jdshipin.com:8801/bst.php?id=dnwshd8m/8000000
-#EXTINF:-1 ,东南卫视
+#EXTINF:-1,东南卫视
 https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
-#EXTINF:-1 ,甘肃卫视
+#EXTINF:-1,甘肃卫视
+http://58.32.42.66:4022/udp/239.45.1.234:5140
+#EXTINF:-1,甘肃卫视
 http://nas.jdshipin.com:8801/bst.php?id=gswshd8m/8000000
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1,广东卫视
+http://58.32.42.66:4022/udp/239.45.3.230:5140
+#EXTINF:-1,广东卫视
 http://nas.jdshipin.com:8801/bst.php?id=gdwshd8m/8000000
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1,广东卫视
 https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
-#EXTINF:-1 ,广西卫视
+#EXTINF:-1,广西卫视
+http://58.32.42.66:4022/udp/239.45.0.5:5140
+#EXTINF:-1,广西卫视
 http://nas.jdshipin.com:8801/bst.php?id=gxwshd8m/8000000
-#EXTINF:-1 ,广西卫视
+#EXTINF:-1,广西卫视
 https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
-#EXTINF:-1 ,贵州卫视
+#EXTINF:-1,贵州卫视
+http://58.32.42.66:4022/udp/239.45.1.80:5140
+#EXTINF:-1,贵州卫视
 http://nas.jdshipin.com:8801/bst.php?id=gzwshd8m/8000000
-#EXTINF:-1 ,海南卫视
+#EXTINF:-1,海南卫视
+http://58.32.42.66:4022/udp/239.45.1.81:5140
+#EXTINF:-1,海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
-#EXTINF:-1 ,海南卫视
+#EXTINF:-1,海南卫视
 http://nas.jdshipin.com:8801/bst.php?id=hainanwshd8m/8000000
-#EXTINF:-1 ,海南卫视
+#EXTINF:-1,海南卫视
 https://live.goodiptv.club/api/cqyx.php?id=hainanSD
-#EXTINF:-1 ,海峡卫视
+#EXTINF:-1,海峡卫视
 http://r.jdshipin.com/WtYt3
-#EXTINF:-1 ,河北卫视
+#EXTINF:-1,河北卫视
+http://58.32.42.66:4022/udp/239.45.1.44:5140
+#EXTINF:-1,河北卫视
 http://nas.jdshipin.com:8801/bst.php?id=hbwshd8m/8000000
-#EXTINF:-1 ,河北卫视
+#EXTINF:-1,河北卫视
 https://live.goodiptv.club/api/cqyx.php?id=hebeiSD
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1,河南卫视
+http://58.32.42.66:4022/udp/239.45.0.3:5140
+#EXTINF:-1,河南卫视
 http://nas.jdshipin.com:8801/bst.php?id=hnwshd8m/8000000
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1,河南卫视
 https://live.goodiptv.club/api/cqyx.php?id=henanHD
-#EXTINF:-1 ,黑龙江卫视
+#EXTINF:-1,黑龙江卫视
 http://nas.jdshipin.com:8801/bst.php?id=hljwshd8m/8000000
-#EXTINF:-1 ,黑龙江卫视
+#EXTINF:-1,黑龙江卫视
 https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1,湖北卫视
+http://58.32.42.66:4022/udp/239.45.3.239:5140
+#EXTINF:-1,湖北卫视
 http://nas.jdshipin.com:8801/bst.php?id=hubeiws8m/8000000
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1,湖北卫视
 https://live.goodiptv.club/api/cqyx.php?id=hubeiSD
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1,湖南卫视
+http://58.32.42.66:4022/udp/239.45.3.228:5140
+#EXTINF:-1,湖南卫视
 http://nas.jdshipin.com:8801/bst.php?id=hunanwshd8m/8000000
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1,湖南卫视
 https://live.goodiptv.club/api/cqyx.php?id=hunanHD
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1,吉林卫视
+http://58.32.42.66:4022/udp/239.45.0.6:5140
+#EXTINF:-1,吉林卫视
 http://nas.jdshipin.com:8801/bst.php?id=jlwshd8m/8000000
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1,吉林卫视
 https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1,吉林卫视
 https://www.goodiptv.club/douyu/9273031
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1,江苏卫视
+http://58.32.42.66:4022/udp/239.45.3.177:5140
+#EXTINF:-1,江苏卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1,江苏卫视
 http://nas.jdshipin.com:8801/bst.php?id=jswshd8m/8000000
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1,江苏卫视
 https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
-#EXTINF:-1 ,江西卫视
+#EXTINF:-1,江西卫视
+http://58.32.42.66:4022/udp/239.45.1.122:5140
+#EXTINF:-1,江西卫视
 http://nas.jdshipin.com:8801/bst.php?id=jxws8m/8000000
-#EXTINF:-1 ,康巴卫视
+#EXTINF:-1,康巴卫视
+http://58.32.42.66:4022/udp/239.45.1.251:5140
+#EXTINF:-1,康巴卫视
 http://nas.jdshipin.com:8801/bst.php?id=kbws/2500000
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1,辽宁卫视
+http://58.32.42.66:4022/udp/239.45.1.123:5140
+#EXTINF:-1,辽宁卫视
 http://nas.jdshipin.com:8801/bst.php?id=lnwshd8m/8000000
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1,辽宁卫视
 https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
-#EXTINF:-1 ,内蒙古蒙古语卫视
+#EXTINF:-1,内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1,内蒙古卫视
+http://58.32.42.66:4022/udp/239.45.1.238:5140
+#EXTINF:-1,内蒙古卫视
 http://nas.jdshipin.com:8801/bst.php?id=nmgws/1300000
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1,内蒙古卫视
 https://live.goodiptv.club/api/cqyx.php?id=neimengkuSD
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1,内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-#EXTINF:-1 ,宁夏卫视
+#EXTINF:-1,宁夏卫视
+http://58.32.42.66:4022/udp/239.45.1.213:5140
+#EXTINF:-1,宁夏卫视
 http://nas.jdshipin.com:8801/bst.php?id=nxws/1300000
-#EXTINF:-1 ,宁夏卫视
+#EXTINF:-1,宁夏卫视
 https://live.goodiptv.club/api/cqyx.php?id=ningxia
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1,青海卫视
+http://58.32.42.66:4022/udp/239.45.1.230:5140
+#EXTINF:-1,青海卫视
 http://nas.jdshipin.com:8801/bst.php?id=qhws/1300000
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1,青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1,青海卫视
 https://live.goodiptv.club/api/cqyx.php?id=qinghaiSD
-#EXTINF:-1 ,三沙卫视
+#EXTINF:-1,三沙卫视
+http://58.32.42.66:4022/udp/239.45.1.82:5140
+#EXTINF:-1,三沙卫视
 http://nas.jdshipin.com:8801/bst.php?id=sswshd8m/8000000
-#EXTINF:-1 ,三沙卫视
+#EXTINF:-1,三沙卫视
 https://live.goodiptv.club/api/cqyx.php?id=sanshaSD
-#EXTINF:-1 ,厦门卫视
+#EXTINF:-1,厦门卫视
 http://nas.jdshipin.com:8801/bst.php?id=xmws/1300000
-#EXTINF:-1 ,山东教育卫视
+#EXTINF:-1,山东教育卫视
 https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1,山东卫视
+http://58.32.42.66:4022/udp/239.45.3.238:5140
+#EXTINF:-1,山东卫视
 http://nas.jdshipin.com:8801/bst.php?id=sdws8m/8000000
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1,山西卫视
+http://58.32.42.66:4022/udp/239.45.1.229:5140
+#EXTINF:-1,山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1,山西卫视
 http://nas.jdshipin.com:8801/bst.php?id=shanxiws/1300000
-#EXTINF:-1 ,陕西农林卫视
+#EXTINF:-1,陕西农林卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 ,陕西农林卫视
+#EXTINF:-1,陕西农林卫视
 http://nas.jdshipin.com:8801/qly.php?id=6335
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1,陕西卫视
+http://58.32.42.66:4022/udp/239.45.1.232:5140
+#EXTINF:-1,陕西卫视
 http://nas.jdshipin.com:8801/bst.php?id=sxws/1300000
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1,深圳卫视
+http://58.32.42.66:4022/udp/239.45.3.231:5140
+#EXTINF:-1,深圳卫视
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1,深圳卫视
 http://nas.jdshipin.com:8801/bst.php?id=szwshd8m/8000000
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1,深圳卫视
 https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
-#EXTINF:-1 ,四川卫视
+#EXTINF:-1,四川卫视
+http://58.32.42.66:4022/udp/239.45.1.83:5140
+#EXTINF:-1,四川卫视
 http://nas.jdshipin.com:8801/bst.php?id=scwshd/8000000
-#EXTINF:-1 ,四川卫视
+#EXTINF:-1,四川卫视
 https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1,天津卫视
+http://58.32.42.66:4022/udp/239.45.1.124:5140
+#EXTINF:-1,天津卫视
 http://nas.jdshipin.com:8801/bst.php?id=tjwshd8m/8000000
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1,天津卫视
 https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1,西藏卫视
+http://58.32.42.66:4022/udp/239.45.1.231:5140
+#EXTINF:-1,西藏卫视
 http://media.vtibet.com/masvod/HLSLive/9/hanyuTV_q1.m3u8
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1,西藏卫视
 http://nas.jdshipin.com:8801/bst.php?id=xzws/2500000
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1,西藏卫视
 https://live.goodiptv.club/api/cqyx.php?id=xizangSD
-#EXTINF:-1 ,香港卫视
+#EXTINF:-1,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1,新疆卫视
+http://58.32.42.66:4022/udp/239.45.1.116:5140
+#EXTINF:-1,新疆卫视
 http://nas.jdshipin.com:8801/bst.php?id=xjws/1300000
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1,新疆卫视
 https://live.goodiptv.club/api/cqyx.php?id=xinjiangSD
-#EXTINF:-1 ,延边卫视
+#EXTINF:-1,延边卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-#EXTINF:-1 ,延边卫视
+#EXTINF:-1,延边卫视
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 ,延边卫视
+#EXTINF:-1,延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 ,云南卫视
+#EXTINF:-1,云南卫视
+http://58.32.42.66:4022/udp/239.45.0.4:5140
+#EXTINF:-1,云南卫视
 http://nas.jdshipin.com:8801/bst.php?id=ynwshd8m/8000000
-#EXTINF:-1 ,云南卫视
+#EXTINF:-1,云南卫视
 https://live.goodiptv.club/api/cqyx.php?id=yunnanSD
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1,浙江卫视
+http://58.32.42.66:4022/udp/239.45.3.178:5140
+#EXTINF:-1,浙江卫视
 http://nas.jdshipin.com:8801/bst.php?id=zjwshd8m/8000000
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1,浙江卫视
 https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1,重庆卫视
+http://58.32.42.66:4022/udp/239.45.1.84:5140
+#EXTINF:-1,重庆卫视
 http://nas.jdshipin.com:8801/bst.php?id=cqws8m/8000000
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1,重庆卫视
 https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
