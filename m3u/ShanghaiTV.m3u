@@ -115,7 +115,7 @@ https://epg.pw/stream/fdb15b17c9ae89e22f67f55f5254c7b7be7d0222828d1c22cd4a87d660
 https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
 #EXTINF:-1,上海东方影视
 http://58.32.42.66:4022/udp/239.45.3.237:5140
-#EXTINF:-1,上视东方影视
+#EXTINF:-1,上海东方影视
 http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1,动漫秀场
 http://58.32.42.66:4022/udp/239.45.3.134:5140
@@ -159,7 +159,7 @@ https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e5
 https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1,七彩戏剧
 https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1,上视ICS外语
+#EXTINF:-1,上海ICS外语
 http://58.32.42.66:4022/udp/239.45.1.127:5140
 #EXTINF:-1,上海ICS外语
 https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
@@ -210,8 +210,6 @@ https://epg.pw/stream/dacf0f8dd3b8177a43d611af751656f04ced6087d566047ff2e1589f65
 #EXTINF:-1,上海纪实人文
 https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8
 #EXTINF:-1,上海教育台
-http://58.32.42.66:4022/udp/239.45.3.122:5140
-#EXTINF:-1,上海教育台
 https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
 #EXTINF:-1,生活时尚
 http://58.32.42.66:4022/udp/239.45.3.132:5140
@@ -251,7 +249,7 @@ http://49.71.97.216:8111/rtp/239.49.1.180:6000
 http://58.32.42.66:4022/udp/239.45.3.131:5140
 #EXTINF:-1,游戏风云
 http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
-#EXTINF:-1,全纪实
+#EXTINF:-1,乐游
 http://58.32.42.66:4022/udp/239.45.3.135:5140
 #EXTINF:-1,浦东频道
 http://58.32.42.66:4022/udp/239.45.3.248:5140
