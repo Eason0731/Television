@@ -609,12 +609,6 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 魅力足球,http://nas.jdshipin.com:8801/bst.php?id=mlyyhd8m/8000000
 七彩戏剧,http://58.32.42.66:4022/udp/239.45.3.61:5140
-七彩戏剧,http://101.229.111.162:4022/udp/239.45.3.61:5140
-七彩戏剧,http://124.78.218.54:9988/udp/239.45.3.61:5140
-七彩戏剧,http://58.32.42.66:4022/udp/239.45.3.61:5140
-七彩戏剧,http://58.37.189.183:8088/udp/239.45.3.61:5140
-七彩戏剧,http://58.220.83.62:8118/rtp/239.49.1.175:6000
-七彩戏剧,http://222.95.95.247:4000/rtp/239.49.1.175:6000
 七彩戏剧,http://nas.jdshipin.com:8801/bst.php?id=qcxjhd8m/8000000
 七彩戏剧,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=qcxj_2000
 七彩戏剧,https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.m3u8
@@ -694,10 +688,7 @@ MAX极速汽车,http://58.32.42.66:4022/udp/239.45.3.49:5140
 劲爆体育,http://49.65.216.174:8888/rtp/239.49.1.180:6000
 劲爆体育,http://49.64.55.189:8888/rtp/239.49.1.180:6000
 劲爆体育,http://49.71.97.216:8111/rtp/239.49.1.180:6000
-MAX极速汽车,http://58.32.42.66:4022/udp/239.45.3.49:5140
 百事通超级体育,http://58.32.42.66:4022/udp/239.45.3.139:5140
-百事通4K,http://58.32.42.66:4022/udp/239.45.1.42:5140
-百事通4K,http://58.32.42.66:4022/udp/239.45.3.107:5140
 CCTV-5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5,https://epg.pw/stream/01eae24f5d477f76d273c421a53136204d764b36fead9bb558ce8da108ba668b.m3u8
@@ -826,11 +817,6 @@ Sky 2 Racing,https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 山东体育,http://112.235.202.45:9901/tsfile/live/1005_1.m3u8
 山东体育,http://112.235.200.192:9901/tsfile/live/1005_1.m3u8
 山东体育,http://zhuji.sdrnwl.cn:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com#http://182.32.205.101:9901/tsfile/live/1020_1.m3u8?key=txiptv&url=tvzb.com#http://58.56.67.38:808/hls/202326/index.m3u8
-广州竞赛,http://14.126.29.167:7777/udp/239.253.43.70:5146
-广州竞赛,http://119.129.237.18:4022/udp/239.253.43.70:5146
-广州竞赛,http://113.87.224.152:5000/udp/239.253.43.70:5146
-广州竞赛,http://14.126.29.88:5000/udp/239.253.43.70:5146
-广州竞赛,http://61.140.235.7:4000/udp/239.253.43.70:5146
 广州南国都市,http://183.238.248.84:9000/udp/239.21.0.132:3872
 广州南国都市,http://125.92.176.26:5555/udp/239.253.43.99:5146
 广州南国都市,http://121.13.164.171:8000/udp/239.253.43.99:5146
@@ -3791,13 +3777,13 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 常州公共,http://live.cooltv.top/tv/cztv.php?id=czgg
 常州公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8?icpid=3&RTS=1663019844&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+百事通4K,http://58.32.42.66:4022/udp/239.45.1.42:5140
+百事通4K,http://58.32.42.66:4022/udp/239.45.3.107:5140
 金鹰纪实,http://58.32.42.66:4022/udp/239.45.1.45:5140
-金鹰卡通,http://58.32.42.66:4022/udp/239.45.3.118:5140
 嘉佳卡通,http://58.32.42.66:4022/udp/239.45.1.48:5140
 卡酷少儿,http://58.32.42.66:4022/udp/239.45.0.8:5140
 北京冬奥纪实,http://58.32.42.66:4022/udp/239.45.1.14:5140
 中国天气,http://58.32.42.66:4022/udp/239.45.1.47:5140
-陶瓷,http://58.32.42.66:4022/udp/239.45.3.50:5140
 扬中新闻,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8
 美国中文电视 (406p) [Not 24/7],https://jpts.sinovision.net/livestream.m3u8
 全国党员干部现代远程教育,https://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
@@ -3805,12 +3791,6 @@ SportsGrid,https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsg
 全国党员干部现代远程教育,https://12371wbndtxy.liveplay.myqcloud.com/12371wbnd/dangyuanwang_2_hd.m3u8
 全国党员干部现代远程教育,https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8?BR=single
 全国党员干部现代远程教育,https://12371wbndbd.a.bdydns.com/12371wbnd/dangyuanwang_2/index.m3u8
-七彩戏剧,http://101.229.111.162:4022/udp/239.45.3.61:5140
-七彩戏剧,http://124.78.218.54:9988/udp/239.45.3.61:5140
-七彩戏剧,http://58.32.42.66:4022/udp/239.45.3.61:5140
-七彩戏剧,http://58.37.189.183:8088/udp/239.45.3.61:5140
-七彩戏剧,http://58.220.83.62:8118/rtp/239.49.1.175:6000
-七彩戏剧,http://222.95.95.247:4000/rtp/239.49.1.175:6000
 山东教育卫视,http://182.46.8.161:8018/hls/16/index.m3u8
 山东教育卫视,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育卫视,http://117.66.171.115:4022/rtp/238.1.78.254:7904
