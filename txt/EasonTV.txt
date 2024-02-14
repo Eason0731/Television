@@ -592,7 +592,7 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 东方卫视,https://epg.pw/stream/fdb15b17c9ae89e22f67f55f5254c7b7be7d0222828d1c22cd4a87d660e17155.m3u8
 东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
 上海东方影视,http://58.32.42.66:4022/udp/239.45.3.237:5140
-上视东方影视,http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
+上海东方影视,http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
 动漫秀场,http://58.32.42.66:4022/udp/239.45.3.134:5140
 动漫秀场,http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
 哈哈炫动,http://58.32.42.66:4022/udp/239.45.1.55:5140
@@ -614,7 +614,7 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 七彩戏剧,https://epg.pw/stream/4597a5c2422b837dbfb262e212f032554e6823a4b18f8dbc24e303b5e596a1b7.m3u8
 七彩戏剧,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
 七彩戏剧,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
-上视ICS外语,http://58.32.42.66:4022/udp/239.45.1.127:5140
+上海ICS外语,http://58.32.42.66:4022/udp/239.45.1.127:5140
 上海ICS外语,https://epg.pw/stream/12aeb663d4574646ffa1a69cd798569aa7deeca836135a5b7158a4ac6fead8ea.m3u8
 上海ICS外语,https://epg.pw/stream/4d4e6166f147330608a7777afa6d0603d5f54b83ee029f5a2a9d4bd3795613ab.m3u8
 上海ICS外语,https://epg.pw/stream/5288af9218a0518b7b5fe4c363ec16d0b727f6fe62e63570780dc6651d3b74ea.m3u8
@@ -639,7 +639,6 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 上海纪实人文,https://epg.pw/stream/d62ba80b3275cd0260ad78a969ae19ca74ef6f44a7cae4cd46d31f1b44f47f2c.m3u8
 上海纪实人文,https://epg.pw/stream/dacf0f8dd3b8177a43d611af751656f04ced6087d566047ff2e1589f65821127.m3u8
 上海纪实人文,https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8
-上海教育台,http://58.32.42.66:4022/udp/239.45.3.122:5140
 上海教育台,https://epg.pw/stream/aba4338b7683e3dc9a700bffe0b50efcc9720ba03b2108cc3137ed4885336a00.m3u8
 生活时尚,http://58.32.42.66:4022/udp/239.45.3.132:5140
 生活时尚,http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
@@ -660,7 +659,7 @@ CGTN测试,https://epg.pw/stream/439821f15e0a3669d186c86b492b7a3e8cf35f0da9d0825
 劲爆体育,http://49.71.97.216:8111/rtp/239.49.1.180:6000
 游戏风云,http://58.32.42.66:4022/udp/239.45.3.131:5140
 游戏风云,http://nas.jdshipin.com:8801/bst.php?id=yxfy8m/8000000
-全纪实,http://58.32.42.66:4022/udp/239.45.3.135:5140
+乐游,http://58.32.42.66:4022/udp/239.45.3.135:5140
 浦东频道,http://58.32.42.66:4022/udp/239.45.3.248:5140
 崇明频道,http://58.32.42.66:4022/udp/239.45.1.54:5140
 嘉定频道,http://58.32.42.66:4022/udp/239.45.3.185:5140
